@@ -16,4 +16,10 @@ function pause(){
     btnPlay.style.display = "inline-block";
 }
 
+function stop(){
+    audio.pause();
+    audio.currentTime = 0;
+    btnPause.style.display = "none";
+    btnPlay.style.display = "inline-block";
+}
 
