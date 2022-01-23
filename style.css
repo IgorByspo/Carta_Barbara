@@ -43,3 +43,18 @@ main p{
     margin: 0;
     padding: 0;
 }
+
+@media screen and (min-width: 460px) {
+
+    body{
+        max-width: 450px;
+        margin: auto;
+        border: 2px solid white;
+        border-radius: 5px;
+    }
+
+    .musica{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+}
