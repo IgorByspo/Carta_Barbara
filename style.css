@@ -8,11 +8,11 @@
 }
 
 html{
-    /* background-image: linear-gradient(to bottom right, #FF0A6C, #2D27FF); */
+    /* background-image: linear-gradient(to bottom, #FF0A6C, #2D27FF); */
     background-image: linear-gradient(to bottom, #00E1FD, #FC007A);
-    /* background-image: linear-gradient(to bottom right, #FF2CDF, #0014FF); */
-    background-repeat: no-repeat;
+    /* background-image: linear-gradient(to bottom, #FF2CDF, #0014FF); */
     background-size: cover;
+    background-repeat: no-repeat;
 
 }
 
