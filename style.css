@@ -31,3 +31,15 @@ main p{
 #data{
     color: yellow;
 }
+
+.musica{
+    width: max-content;
+    margin: auto;
+}
+
+.controles img{
+    margin: auto;
+    width: 50px;
+    margin: 0;
+    padding: 0;
+}
