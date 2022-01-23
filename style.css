@@ -1,0 +1,33 @@
+* {
+    /* background-color: #2b2d2f; */
+    font-family: 'Merienda', cursive;
+    font-weight: bold;
+    color: white;
+    padding: 5px;
+    /* font-family: 'Courgette', cursive; */
+}
+
+html{
+    /* background-image: linear-gradient(to bottom right, #FF0A6C, #2D27FF); */
+    background-image: linear-gradient(to bottom, #00E1FD, #FC007A);
+    /* background-image: linear-gradient(to bottom right, #FF2CDF, #0014FF); */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+main p{
+    text-align: justify;
+}
+
+#titulo{
+    background-color: red;
+    display: inline-block;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+#data{
+    color: yellow;
+}
